@@ -679,7 +679,8 @@ padding-top: 10px;
   top: 0
 }
 #o{display: none;}
-#s{position: fixed;right: 489px; }
+
+
 /*
 @media (max-width:1099px){
 
@@ -697,8 +698,11 @@ padding-top: 10px;
   .part2 ul li:last-child{
     display:none;
   }
-#o{display: block}
+#o{display: block;color: #a1a4a9;
+font-size: 26px;
+width: 110px;
+text-align: center;
+margin-top:-5px}
 
-.navbar{
 }
-}
+
